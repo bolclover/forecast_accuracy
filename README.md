@@ -15,6 +15,6 @@ This project will measure forecast accuracy from the next 1 month to even the ne
 MAPE
 BIAS
 
-3. Dashboard visualized by Power BI
+3. Dashboard visualized by Power BI:
 
 
