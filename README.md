@@ -11,10 +11,10 @@ This project will measure forecast accuracy from the following 1 month to even t
 
 **# Solving:**
 
-1. Formula used:
-MAPE
-BIAS
+1. Formula used to measure accuracy: MAPE, BIAS
 
-3. Dashboard visualized by Power BI:
+3. Used ranking to define the lag of data
+
+4. Dashboard visualized by Power BI:
 
 
